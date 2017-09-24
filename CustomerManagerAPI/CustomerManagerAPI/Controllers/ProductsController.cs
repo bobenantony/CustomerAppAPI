@@ -16,7 +16,7 @@ namespace CustomerManagerAPI.Controllers
             new Product { Id = 3, Name = "Hammer", Category = "Hardware", Price = 16.99M }
         };
 
-        // /api/products
+        // /api/products - getting all products
         [HttpGet]
         public IActionResult GetAllProducts()
         {

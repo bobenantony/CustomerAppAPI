@@ -8,3 +8,13 @@ C:\Users\boben\source\repos\CustomerManagerAPI\CustomerManagerAPI\obj\Debug\netc
 C:\Users\boben\source\repos\CustomerManagerAPI\CustomerManagerAPI\obj\Debug\netcoreapp1.1\CustomerManagerAPI.dll
 C:\Users\boben\source\repos\CustomerManagerAPI\CustomerManagerAPI\obj\Debug\netcoreapp1.1\CustomerManagerAPI.pdb
 C:\Users\boben\source\repos\CustomerManagerAPI\CustomerManagerAPI\obj\Debug\netcoreapp1.1\CustomerManagerAPI.csprojResolveAssemblyReference.cache
+C:\Users\boben\source\repos\CustomerManagerAPI\CustomerAppAPI\CustomerManagerAPI\CustomerManagerAPI\bin\Debug\netcoreapp1.1\CustomerManagerAPI.deps.json
+C:\Users\boben\source\repos\CustomerManagerAPI\CustomerAppAPI\CustomerManagerAPI\CustomerManagerAPI\bin\Debug\netcoreapp1.1\CustomerManagerAPI.runtimeconfig.json
+C:\Users\boben\source\repos\CustomerManagerAPI\CustomerAppAPI\CustomerManagerAPI\CustomerManagerAPI\bin\Debug\netcoreapp1.1\CustomerManagerAPI.runtimeconfig.dev.json
+C:\Users\boben\source\repos\CustomerManagerAPI\CustomerAppAPI\CustomerManagerAPI\CustomerManagerAPI\bin\Debug\netcoreapp1.1\CustomerManagerAPI.dll
+C:\Users\boben\source\repos\CustomerManagerAPI\CustomerAppAPI\CustomerManagerAPI\CustomerManagerAPI\bin\Debug\netcoreapp1.1\CustomerManagerAPI.pdb
+C:\Users\boben\source\repos\CustomerManagerAPI\CustomerAppAPI\CustomerManagerAPI\CustomerManagerAPI\obj\Debug\netcoreapp1.1\CustomerManagerAPI.csprojResolveAssemblyReference.cache
+C:\Users\boben\source\repos\CustomerManagerAPI\CustomerAppAPI\CustomerManagerAPI\CustomerManagerAPI\obj\Debug\netcoreapp1.1\CustomerManagerAPI.csproj.CoreCompileInputs.cache
+C:\Users\boben\source\repos\CustomerManagerAPI\CustomerAppAPI\CustomerManagerAPI\CustomerManagerAPI\obj\Debug\netcoreapp1.1\CustomerManagerAPI.AssemblyInfo.cs
+C:\Users\boben\source\repos\CustomerManagerAPI\CustomerAppAPI\CustomerManagerAPI\CustomerManagerAPI\obj\Debug\netcoreapp1.1\CustomerManagerAPI.dll
+C:\Users\boben\source\repos\CustomerManagerAPI\CustomerAppAPI\CustomerManagerAPI\CustomerManagerAPI\obj\Debug\netcoreapp1.1\CustomerManagerAPI.pdb

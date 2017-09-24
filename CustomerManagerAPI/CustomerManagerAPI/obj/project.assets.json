@@ -10226,11 +10226,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\boben\\source\\repos\\CustomerManagerAPI\\CustomerManagerAPI\\CustomerManagerAPI.csproj",
+      "projectUniqueName": "C:\\Users\\boben\\source\\repos\\CustomerManagerAPI\\CustomerAppAPI\\CustomerManagerAPI\\CustomerManagerAPI\\CustomerManagerAPI.csproj",
       "projectName": "CustomerManagerAPI",
-      "projectPath": "C:\\Users\\boben\\source\\repos\\CustomerManagerAPI\\CustomerManagerAPI\\CustomerManagerAPI.csproj",
+      "projectPath": "C:\\Users\\boben\\source\\repos\\CustomerManagerAPI\\CustomerAppAPI\\CustomerManagerAPI\\CustomerManagerAPI\\CustomerManagerAPI.csproj",
       "packagesPath": "C:\\Users\\boben\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\boben\\source\\repos\\CustomerManagerAPI\\CustomerManagerAPI\\obj\\",
+      "outputPath": "C:\\Users\\boben\\source\\repos\\CustomerManagerAPI\\CustomerAppAPI\\CustomerManagerAPI\\CustomerManagerAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\boben\\AppData\\Roaming\\NuGet\\NuGet.Config",
