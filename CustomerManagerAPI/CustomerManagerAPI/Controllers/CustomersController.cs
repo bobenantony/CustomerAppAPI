@@ -25,10 +25,11 @@ namespace CustomerManagerAPI.Controllers
         public IActionResult GetCustomers()
         {
             var customers = _customerRepository.GetCustomers().OrderBy(c=>c.Id);
-            var totalRecords = customers.Count();
+            var customersList = customers.ToList<Customer>();
+            var totalRecords = customersList.Count();
             //HttpContext.Current.Response.Headers.Add("X-InlineCount", totalRecords.ToString());
             //return Request.CreateResponse(HttpStatusCode.OK, customers);
-            return Ok(customers);
+            return Ok(customersList);
         }
 
         [HttpGet]
@@ -38,6 +39,20 @@ namespace CustomerManagerAPI.Controllers
             var states = _customerRepository.GetStates();
             //return Request.CreateResponse(HttpStatusCode.OK, states);
             return Ok(states);
+        }
+
+        [HttpPost]
+        public IActionResult Login([FromBody]UserLogin userLogin)
+        {
+            //Simulated login
+            return Ok(new { status = true });
+        }
+
+        [HttpPost]
+        public IActionResult Logout()
+        {
+            //Simulated logout
+            return Ok(new { status = true });
         }
 
         [HttpGet]
